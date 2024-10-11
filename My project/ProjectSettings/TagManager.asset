@@ -8,6 +8,8 @@ TagManager:
   - Quit
   - Play
   - HowToPlay
+  - Resume
+  - PauseMenu
   layers:
   - Default
   - TransparentFX
