@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7b7bdfd8bc26809479822eef73f895da
+guid: 2e8b76481d79e31409b6f7b68d13ae76
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Retroking
+  - pil love
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
