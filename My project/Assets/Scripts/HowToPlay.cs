@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class HowToPlay : MonoBehaviour
 {
     [SerializeField]
-    string levelToLoad = "How To Play";
+    string levelToLoad = "HowToPlay";
     // Start is called before the first frame update
     void Start()
     {

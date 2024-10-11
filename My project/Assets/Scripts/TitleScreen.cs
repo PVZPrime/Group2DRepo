@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class TitleScreen : MonoBehaviour
 {
     [SerializeField]
-    string levelToLoad = "Level 1";
+    string levelToLoad = "LevelOne";
     // Start is called before the first frame update
     void Start()
     {

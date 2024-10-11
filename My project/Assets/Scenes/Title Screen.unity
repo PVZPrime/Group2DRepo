@@ -156,8 +156,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 254}
-  m_SizeDelta: {x: 319.8207, y: 50}
+  m_AnchoredPosition: {x: 296, y: 265}
+  m_SizeDelta: {x: 361.8643, y: 28.9782}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &822775201
 MonoBehaviour:
@@ -206,13 +206,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 100
+  m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -499.22937, y: 0, z: -499.21307, w: 0}
+  m_margin: {x: -552.8867, y: 0, z: 14.031433, w: -1.4014282}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -290,7 +290,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 4.9, y: -2.2}
+  m_AnchoredPosition: {x: 4.899994, y: -2.2000008}
   m_SizeDelta: {x: -3.3323, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1077155470
@@ -340,8 +340,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17.69
-  m_fontSizeBase: 17.69
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -428,7 +428,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -0.000011444, y: 132.4}
-  m_SizeDelta: {x: 138.6687, y: 30}
+  m_SizeDelta: {x: 370, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1301228857
 MonoBehaviour:
@@ -474,7 +474,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1301228860}
+      - m_Target: {fileID: 1301228855}
         m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
         m_MethodName: 
         m_Mode: 1
@@ -536,7 +536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f36f8674ee0de14aa0309acab50cc1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: Level 1
+  levelToLoad: LevelOne
 --- !u!1 &1414984751
 GameObject:
   m_ObjectHideFlags: 0
@@ -574,8 +574,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000011444, y: 51.8}
-  m_SizeDelta: {x: 138.6687, y: 30}
+  m_AnchoredPosition: {x: -4, y: 6.6}
+  m_SizeDelta: {x: 370, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1414984753
 MonoBehaviour:
@@ -621,16 +621,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1414984751}
-        m_TargetAssemblyTypeName: 
+      - m_Target: {fileID: 1414984756}
+        m_TargetAssemblyTypeName: UnityEngine.Component, UnityEngine
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: HowToPlay
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1414984754
@@ -771,8 +771,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1472065017}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.69, y: -9.41, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -832,7 +832,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 5e0f8dafe6bdad44ba73347b3ca6562a, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1014,8 +1014,6 @@ GameObject:
   - component: {fileID: 1642924523}
   - component: {fileID: 1642924522}
   - component: {fileID: 1642924521}
-  - component: {fileID: 1642924526}
-  - component: {fileID: 1642924525}
   m_Layer: 5
   m_Name: TitleScreen
   m_TagString: Untagged
@@ -1108,32 +1106,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &1642924525
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1642924520}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f36f8674ee0de14aa0309acab50cc1d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  levelToLoad: Level 1
---- !u!114 &1642924526
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1642924520}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4103aae477ebfc94aa1dde95077a4840, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  levelToLoad: HowToPlay
 --- !u!1 &1674809812
 GameObject:
   m_ObjectHideFlags: 0
@@ -1147,7 +1119,7 @@ GameObject:
   - component: {fileID: 1674809814}
   m_Layer: 5
   m_Name: Text (TMP)
-  m_TagString: Untagged
+  m_TagString: Play
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1168,8 +1140,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 4.9, y: -2.2}
-  m_SizeDelta: {x: -3.3323, y: 0}
+  m_AnchoredPosition: {x: 14.9759, y: -7.238}
+  m_SizeDelta: {x: 16.8196, y: 10.0759}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1674809814
 MonoBehaviour:
@@ -1218,8 +1190,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17.69
-  m_fontSizeBase: 17.69
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
