@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - Quit
   - Play
+  - HowToPlay
   layers:
   - Default
   - TransparentFX

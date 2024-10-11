@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TitleScreen : MonoBehaviour
+public class HowToPlay : MonoBehaviour
 {
     [SerializeField]
-    string levelToLoad = "Level 1";
+    string levelToLoad = "HowToPlay";
     // Start is called before the first frame update
     void Start()
     {
@@ -21,7 +21,7 @@ public class TitleScreen : MonoBehaviour
     {
         Debug.Log(collision.gameObject.name);
         //IF I hit a the play button I go to level 1
-        if (collision.gameObject.tag == "Play")
+        if (collision.gameObject.tag == "HowToPlay")
         {
 
             SceneManager.LoadScene(levelToLoad);
