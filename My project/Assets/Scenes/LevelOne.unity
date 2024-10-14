@@ -1458,8 +1458,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -665.56, y: -347.79}
-  m_SizeDelta: {x: 1.5596, y: 0.6495}
+  m_AnchoredPosition: {x: -677.2766, y: -371.3693}
+  m_SizeDelta: {x: 0.8394165, y: 0.6495}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1126191739
 MonoBehaviour:
@@ -1533,8 +1533,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -665.56, y: -347.79}
-  m_SizeDelta: {x: 1.5596, y: 0.6495}
+  m_AnchoredPosition: {x: -677.354, y: -371.37927}
+  m_SizeDelta: {x: 1.5595703, y: 0.64953613}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1225811595
 MonoBehaviour:
@@ -4433,7 +4433,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 519420031}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -4672,7 +4672,7 @@ GameObject:
   - component: {fileID: 2117091148}
   - component: {fileID: 2117091147}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: EnemyHealthCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4731,7 +4731,7 @@ MonoBehaviour:
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1436, y: 600}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -4749,7 +4749,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 519420031}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -4760,7 +4760,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_TargetDisplay: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
