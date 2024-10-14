@@ -28,8 +28,14 @@ public class TitleScreen : MonoBehaviour
             SceneManager.LoadScene(levelToLoad);
         }
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter(Collider2D collision)
     {
         
     }
+
+    public void LevelOne()
+    {
+        
+    }
+
 }

@@ -31,4 +31,9 @@ public class HowToPlay : MonoBehaviour
     {
 
     }
+
+    public void howToPlay()
+    {
+
+    }
 }
