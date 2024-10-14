@@ -18,24 +18,9 @@ public class TitleScreen : MonoBehaviour
     {
 
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    public void PlayGame()
     {
-        Debug.Log(collision.gameObject.name);
-        //IF I hit a the play button I go to level 1
-        if (collision.gameObject.tag == "Play")
-        {
-
-            SceneManager.LoadScene(levelToLoad);
-        }
-    }
-    private void OnTriggerEnter(Collider2D collision)
-    {
-        
-    }
-
-    public void LevelOne()
-    {
-        
+        SceneManager.LoadSceneAsync(1);
     }
 
 }

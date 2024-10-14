@@ -17,23 +17,8 @@ public class HowToPlay : MonoBehaviour
     {
 
     }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        Debug.Log(collision.gameObject.name);
-        //IF I hit a the how to play button I go to the how to play scene
-        if (collision.gameObject.tag == "HowToPlay")
-        {
-
-            SceneManager.LoadScene(levelToLoad);
-        }
-    }
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-
-    }
-
     public void howToPlay()
     {
-
+        SceneManager.LoadSceneAsync(6);
     }
 }

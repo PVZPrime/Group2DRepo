@@ -476,7 +476,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1301228860}
         m_TargetAssemblyTypeName: TitleScreen, Assembly-CSharp
-        m_MethodName: LevelOne
+        m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
