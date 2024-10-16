@@ -67651,7 +67651,6 @@ GameObject:
   - component: {fileID: 1696572729}
   - component: {fileID: 1696572728}
   - component: {fileID: 1696572731}
-  - component: {fileID: 1696572730}
   - component: {fileID: 1696572733}
   - component: {fileID: 1696572732}
   - component: {fileID: 1696572735}
@@ -67705,7 +67704,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 21300000, guid: dfb56985cbdd2704fa1c21a43e4ac8e2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1d59594d1f8243f4596f36ee7aa36801, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -67725,28 +67724,13 @@ Transform:
   m_GameObject: {fileID: 1696572727}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.76, y: 2.87, z: 0}
-  m_LocalScale: {x: 1.1568, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1049009349}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1696572730
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1696572727}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a09f3962dfae31c4c8941648deaeb6c9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 10
-  levelToLoad: Lose
-  healthBar: {fileID: 0}
 --- !u!114 &1696572731
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67843,7 +67827,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: a8c2fcab6335ea64792a6e5971f1754e, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
