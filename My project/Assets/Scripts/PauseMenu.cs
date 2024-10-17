@@ -17,6 +17,7 @@ public class PauseMenu : MonoBehaviour
         //IF the escape key is pressed
         if(Input.GetKeyDown(KeyCode.Escape) && Time.timeScale == 1)
         {
+            Debug.Log("Game Paused");
             //display the pause menu
             GetComponent<Canvas>().enabled = true;
             //pause the game
@@ -25,6 +26,8 @@ public class PauseMenu : MonoBehaviour
         else if(Input.GetKeyDown(KeyCode.Escape) && Time.timeScale == 0)
         {
             Resume();
+
+            Debug.Log("Game Unpaused");
         }
     }
     public void Resume() 
@@ -37,6 +40,7 @@ public class PauseMenu : MonoBehaviour
 
     public void ReloadLevel()
     {
+        Debug.Log("Level Reloaded");
         Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
@@ -44,6 +48,7 @@ public class PauseMenu : MonoBehaviour
     public void QuitGame()
 
     {
+        Debug.Log("Quit Game");
         Application.Quit();
     }
 
