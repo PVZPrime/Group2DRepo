@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 194642742787241706}
   - component: {fileID: 6026954691446815155}
   - component: {fileID: 844079973817067129}
-  - component: {fileID: 7669103370539683389}
   m_Layer: 0
   m_Name: Goblin-Rider
   m_TagString: Enemy
@@ -190,27 +189,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 3
---- !u!95 &7669103370539683389
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2332721448522776317}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: c01793d3b0649d643813b3c6c9593e77, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4611005387429985680
 GameObject:
   m_ObjectHideFlags: 0
