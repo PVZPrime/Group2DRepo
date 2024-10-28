@@ -35,8 +35,7 @@ public class PlayerHealth : MonoBehaviour
             //IF health gets too low, reload the current level
             if (health <= 0)
             {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-                //SceneManager.LoadScene(levelToLoad);
+                SceneManager.LoadSceneAsync(8);
             }
         }
     }
