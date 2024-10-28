@@ -31,6 +31,7 @@ public class PlayerHealth : MonoBehaviour
         {
             health -= 1;
             healthBar.fillAmount = health / maxHP;
+            GetComponent<AudioSource>().Play();
             //add consequences
             //IF health gets too low, reload the current level
             if (health <= 0)
