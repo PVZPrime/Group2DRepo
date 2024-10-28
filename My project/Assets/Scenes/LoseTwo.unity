@@ -204,7 +204,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1963037914}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: TitleScreen, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
@@ -1053,8 +1053,8 @@ GameObject:
   - component: {fileID: 1963037911}
   - component: {fileID: 1963037910}
   - component: {fileID: 1963037909}
-  - component: {fileID: 1963037914}
   - component: {fileID: 1963037913}
+  - component: {fileID: 1963037914}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1167,12 +1167,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1963037908}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f36f8674ee0de14aa0309acab50cc1d, type: 3}
+  m_Script: {fileID: 11500000, guid: 045e9245bfb88aa4fa79019f7ab6d8ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: LevelOne
+  health: 10
+  levelToLoad: LoseTwo
+  healthBar: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
