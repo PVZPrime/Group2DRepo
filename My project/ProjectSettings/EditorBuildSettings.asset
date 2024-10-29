@@ -35,16 +35,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DragonLair.unity
     guid: ed46a67bb4e9114408b361f94c73a63b
-  - enabled: 0
-    path: Assets/Scenes/LoseTwo.unity
-    guid: ce8d6aecf5c37d54cb62b600e73bcc61
-  - enabled: 0
-    path: Assets/Scenes/LoseThree.unity
-    guid: 22815d007bd7fea4fa0ba7f790a6b279
-  - enabled: 0
-    path: Assets/Scenes/LoseFour.unity
-    guid: 177cebd1421507b4c8796b699bda93cd
-  - enabled: 0
-    path: Assets/Scenes/LoseFive.unity
-    guid: 129b80995efee134da77b52491257bfe
   m_configObjects: {}
