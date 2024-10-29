@@ -31,12 +31,12 @@ public class PlayerHealth : MonoBehaviour
         {
             health -= 1;
             healthBar.fillAmount = health / maxHP;
+            GetComponent<AudioSource>().Play();
             //add consequences
             //IF health gets too low, reload the current level
             if (health <= 0)
             {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-                //SceneManager.LoadScene(levelToLoad);
+                SceneManager.LoadSceneAsync(8);
             }
         }
     }
@@ -46,12 +46,12 @@ public class PlayerHealth : MonoBehaviour
         {
             health -= 1;
             healthBar.fillAmount = health / maxHP;
+            GetComponent<AudioSource>().Play();
             //add consequences
             //IF health gets too low, reload the current level
             if (health <= 0)
             {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-                //SceneManager.LoadScene(levelToLoad);
+                SceneManager.LoadSceneAsync(8);
             }
         }
     }

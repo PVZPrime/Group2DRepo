@@ -11,6 +11,8 @@ TagManager:
   - Resume
   - PauseMenu
   - PlayerBullet
+  - BossArena
+  - EnemyBullet
   layers:
   - Default
   - TransparentFX

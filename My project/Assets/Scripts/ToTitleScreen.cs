@@ -23,4 +23,19 @@ public class ToTitleScreen : MonoBehaviour
         SceneManager.LoadSceneAsync(0);
     }
 
+    public void LevelTwo()
+    {
+        SceneManager.LoadSceneAsync(2);
+    }
+    public void LevelThree()
+    {
+        SceneManager.LoadSceneAsync(3);
+    }
+    public void LevelFour()
+    {
+        SceneManager.LoadSceneAsync(4);
+    }
+    public void LevelFive() {
+        SceneManager.LoadSceneAsync(5);
+    }
 }

@@ -13,20 +13,26 @@ EditorBuildSettings:
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/Scenes/LevelTwo.unity
-    guid: b7be3acf43d7dda4eb8a09665034eece
+    guid: 699bfe3047ed00f49afff0fa90193056
   - enabled: 1
     path: Assets/Scenes/LevelThree.unity
-    guid: 645e580c962aae5488b4ef5e52deb7a2
+    guid: 865f1e810394e32438016550bc603933
   - enabled: 1
     path: Assets/Scenes/LevelFour.unity
-    guid: 811a35f13f1cf6743bf44a0d690ad048
+    guid: eb210699953bed64da5f214df44e7dfa
   - enabled: 1
     path: Assets/Scenes/LevelFive.unity
-    guid: 6626c2d4e7a46b24797d0e67f6e79d0b
+    guid: 8e94b69ed56657245a70c94fffef3e8d
   - enabled: 1
     path: Assets/Scenes/HowToPlay.unity
     guid: ad179985735ce6547ae31ee7bcb3142b
   - enabled: 1
     path: Assets/Scenes/WinScreen.unity
     guid: 71a5f92a97d0065439aa426773c8fe22
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 3eaf1b4fda92b22429579eda799a7fa8
+  - enabled: 1
+    path: Assets/Scenes/DragonLair.unity
+    guid: ed46a67bb4e9114408b361f94c73a63b
   m_configObjects: {}

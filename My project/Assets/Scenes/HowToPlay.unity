@@ -758,7 +758,11 @@ MonoBehaviour:
 
 
     to use a range
-    attack, press "mouse 1".'
+    attack, press "mouse 1".
+
+
+    your objective in this game is to go through many
+    levels until you defeat the dragon, but there is a plot twist.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 087641fcb946910429a67743141b705a, type: 2}
   m_sharedMaterial: {fileID: 7811337426197164290, guid: 087641fcb946910429a67743141b705a, type: 2}
