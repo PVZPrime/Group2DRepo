@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 706609951, guid: 1bdd640e7002a8b4b8c4d74e6cb2a649, type: 3}
+    - target: {fileID: 3995227684389508846, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 79d64d459a38b014db0c612dbae1e4ae, type: 2}
     - target: {fileID: 4660027976574088955, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
       propertyPath: m_Name
       value: KnightEnemy2
