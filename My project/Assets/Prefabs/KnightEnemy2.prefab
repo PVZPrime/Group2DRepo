@@ -59,7 +59,7 @@ PrefabInstance:
     - target: {fileID: 3995227684389508846, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 79d64d459a38b014db0c612dbae1e4ae, type: 2}
+      objectReference: {fileID: 9100000, guid: 0ddf200378983b84c8f5d162c6570599, type: 2}
     - target: {fileID: 4660027976574088955, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
       propertyPath: m_Name
       value: KnightEnemy2
