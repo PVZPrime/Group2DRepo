@@ -122,7 +122,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &8487895
+--- !u!1001 &256118344
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -132,15 +132,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_FlipX
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.719607
+      value: 6.379281
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 47.840096
+      value: 44.70346
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -176,68 +176,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_Name
-      value: Lava Monster Variant (10)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
---- !u!1001 &197901912
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_FlipX
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 11.090218
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 45.39601
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_Name
-      value: Lava Monster Variant (9)
+      value: Lava Monster Variant (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -377,7 +316,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 325436190}
   m_CullTransparentMesh: 1
---- !u!1001 &341124739
+--- !u!1001 &341861262
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -385,17 +324,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_FlipX
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.0167456
+      value: -6.2538176
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 44.77529
+      value: 44.00667
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -431,68 +366,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_Name
-      value: Lava Monster Variant (5)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
---- !u!1001 &425289893
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_FlipX
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 9.460829
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 43.80542
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_Name
-      value: Lava Monster Variant (8)
+      value: Lava Monster Variant (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -567,6 +441,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &499201042
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.829426
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 46.884716
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_Name
+      value: Lava Monster Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
 --- !u!1 &509136066
 GameObject:
   m_ObjectHideFlags: 0
@@ -701,6 +632,63 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 509136066}
   m_CullTransparentMesh: 1
+--- !u!1001 &536137555
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.776729
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10.890154
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_Name
+      value: Lava Monster Variant (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
 --- !u!1 &546286601
 GameObject:
   m_ObjectHideFlags: 0
@@ -71110,6 +71098,246 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 7
+--- !u!1001 &717428379
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.208759
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.742593
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_Name
+      value: Lava Monster Variant (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+--- !u!1001 &758216184
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.863486
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 45.763794
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_Name
+      value: Lava Monster Variant (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+--- !u!1001 &760721184
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.439871
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 47.581505
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_Name
+      value: Lava Monster Variant (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+--- !u!1001 &853035599
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.222747
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 44.52169
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_Name
+      value: Lava Monster Variant (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
 --- !u!1 &1049596798
 GameObject:
   m_ObjectHideFlags: 0
@@ -71377,129 +71605,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1061565939}
   m_CullTransparentMesh: 1
---- !u!1001 &1081757523
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_FlipX
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 6.8615656
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 41.128563
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_Name
-      value: Lava Monster Variant (12)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
---- !u!1001 &1111128546
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_FlipX
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.529749
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 46.753838
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_Name
-      value: Lava Monster Variant (6)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
---- !u!1001 &1175774184
+--- !u!1001 &1316854161
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -71509,235 +71615,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.7839456
+      value: -6.4414244
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 45.366653
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_Name
-      value: Lava Monster Variant (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
---- !u!1001 &1176201452
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.5151825
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 47.20339
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_Name
-      value: Lava Monster Variant (4)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
---- !u!1 &1293659645
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1293659648}
-  - component: {fileID: 1293659647}
-  - component: {fileID: 1293659646}
-  m_Layer: 0
-  m_Name: Lava Goon_0
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!95 &1293659646
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1293659645}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ed4a1ca964cf49748ba932e8a384cd03, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
---- !u!212 &1293659647
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1293659645}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 429788856, guid: 7ccf9b7b16d79154cbd278f4d94705d6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1.96875, y: 1.96875}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &1293659648
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1293659645}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.9654639, y: 43.47859, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1319748827
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_FlipX
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 10.081549
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 48.88756
+      value: 12.554514
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -103481,63 +103363,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1392995733}
   m_CullTransparentMesh: 1
---- !u!1001 &1475377057
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -8.095256
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 48.479763
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_Name
-      value: Lava Monster Variant (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
 --- !u!1 &1527372437
 GameObject:
   m_ObjectHideFlags: 0
@@ -103981,63 +103806,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbad1655a320c4a41aeaaf9196f20a28, type: 3}
---- !u!1001 &1789666018
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -10.865921
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 47.296783
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
-      propertyPath: m_Name
-      value: Lava Monster Variant (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
 --- !u!1 &1867906813
 GameObject:
   m_ObjectHideFlags: 0
@@ -104155,7 +103923,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5bc940583083834baf056484512d06f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1001 &2012052307
+--- !u!1001 &1960493487
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -104163,13 +103931,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1621795783046648328, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -12.621367
+      value: 9.88004
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 45.593403
+      value: 12.930337
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -104205,14 +103977,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_Name
-      value: Lava Monster Variant
+      value: Lava Monster Variant (8)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
---- !u!1001 &2082828365
+--- !u!1001 &2003097482
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -104222,11 +103994,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.341514
+      value: -8.79815
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 41.16736
+      value: -0.47973347
       objectReference: {fileID: 0}
     - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -104262,7 +104034,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
       propertyPath: m_Name
-      value: Lava Monster Variant (11)
+      value: Lava Monster Variant (10)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -104277,18 +104049,15 @@ SceneRoots:
   - {fileID: 1867906817}
   - {fileID: 473830015}
   - {fileID: 1660589592}
-  - {fileID: 2012052307}
-  - {fileID: 1789666018}
-  - {fileID: 1475377057}
-  - {fileID: 1175774184}
-  - {fileID: 1176201452}
-  - {fileID: 341124739}
-  - {fileID: 1111128546}
-  - {fileID: 1319748827}
-  - {fileID: 425289893}
-  - {fileID: 197901912}
-  - {fileID: 8487895}
-  - {fileID: 2082828365}
-  - {fileID: 1081757523}
   - {fileID: 1682324966}
-  - {fileID: 1293659648}
+  - {fileID: 499201042}
+  - {fileID: 853035599}
+  - {fileID: 341861262}
+  - {fileID: 760721184}
+  - {fileID: 256118344}
+  - {fileID: 758216184}
+  - {fileID: 536137555}
+  - {fileID: 1316854161}
+  - {fileID: 1960493487}
+  - {fileID: 717428379}
+  - {fileID: 2003097482}
