@@ -16,6 +16,7 @@ TagManager:
   - NextLevel
   - NextLevelTwo
   - NextLevelThree
+  - NextLevelFour
   layers:
   - Default
   - TransparentFX
