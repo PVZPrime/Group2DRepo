@@ -110870,6 +110870,67 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5bc940583083834baf056484512d06f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &833827284351256472
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1297355844149134439, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 0e42b18a707d31e428aad8fd65a4f187, type: 2}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.6903276
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.776843
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979412172844771039, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7339595173003404402, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
+      propertyPath: m_Name
+      value: Lava Monster
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a4865c7906261e4885bfc3231a32cc4, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -110879,3 +110940,4 @@ SceneRoots:
   - {fileID: 473830015}
   - {fileID: 1660589592}
   - {fileID: 1143761651}
+  - {fileID: 833827284351256472}
