@@ -754,15 +754,15 @@ MonoBehaviour:
     menu.
 
 
-    to attack an enemy with a sword, press "e".
+    to move, press w, a, s and d.
 
 
-    to use a range
-    attack, press "mouse 1".
+    to use a range attack, press
+    "mouse 1".
 
 
-    your objective in this game is to go through many
-    levels until you defeat the dragon, but there is a plot twist.'
+    your objective in this game is to go through many levels until
+    you defeat the dragon and save the world.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 087641fcb946910429a67743141b705a, type: 2}
   m_sharedMaterial: {fileID: 7811337426197164290, guid: 087641fcb946910429a67743141b705a, type: 2}
