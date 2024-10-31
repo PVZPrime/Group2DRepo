@@ -13,6 +13,8 @@ TagManager:
   - PlayerBullet
   - BossArena
   - EnemyBullet
+  - NextLevel
+  - NextLevelTwo
   layers:
   - Default
   - TransparentFX
