@@ -754,11 +754,15 @@ MonoBehaviour:
     menu.
 
 
-    to move, press w, a, s and d.
+    to move, press "w", "a", "s" and "d".
 
 
-    to use a range attack, press
-    "mouse 1".
+    to use a range attack,
+    press "mouse 1" (left click).
+
+
+    to use a melee attack, press "mouse 1" (right
+    click).
 
 
     your objective in this game is to go through many levels until
