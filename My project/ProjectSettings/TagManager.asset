@@ -15,6 +15,7 @@ TagManager:
   - EnemyBullet
   - NextLevel
   - NextLevelTwo
+  - NextLevelThree
   layers:
   - Default
   - TransparentFX
