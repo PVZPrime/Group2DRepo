@@ -119,12 +119,16 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 7547605723140633466, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
     - {fileID: 3004819739132730567, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+    - {fileID: 3507378823927442608, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1964992183411766324, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2300999608171298509}
+    - targetCorrespondingSourceObject: {fileID: 1964992183411766324, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1739525065892331739}
   m_SourcePrefab: {fileID: 100100000, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
 --- !u!1 &6489555633945669180 stripped
 GameObject:
@@ -148,3 +152,16 @@ MonoBehaviour:
   bulletLifetime: 2
   shootDelay: 0.2
   shootDistance: 10
+--- !u!114 &1739525065892331739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6489555633945669180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87a29b01601c2eb418110ba66c58f643, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 15
