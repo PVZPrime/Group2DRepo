@@ -128,7 +128,7 @@ PrefabInstance:
       addedObject: {fileID: 2300999608171298509}
     - targetCorrespondingSourceObject: {fileID: 1964992183411766324, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1739525065892331739}
+      addedObject: {fileID: 6820700670111757530}
   m_SourcePrefab: {fileID: 100100000, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
 --- !u!1 &6489555633945669180 stripped
 GameObject:
@@ -152,7 +152,7 @@ MonoBehaviour:
   bulletLifetime: 2
   shootDelay: 0.2
   shootDistance: 10
---- !u!114 &1739525065892331739
+--- !u!114 &6820700670111757530
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
