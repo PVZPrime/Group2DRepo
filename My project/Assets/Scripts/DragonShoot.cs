@@ -7,7 +7,7 @@ public class DragonShoot : MonoBehaviour
     [SerializeField]
     GameObject prefab;
     [SerializeField]
-    float bulletSpeed = 10f;
+    float bulletSpeed = 25f;
     [SerializeField]
     float bulletLifetime = 2.0f;
     float timer = 0;
