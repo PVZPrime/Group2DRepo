@@ -112057,13 +112057,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 2400583601932526063, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_Size.x
+      value: 0.24877909
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400583601932526063, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_Size.y
+      value: 0.3438987
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400583601932526063, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.047514636
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400583601932526063, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.0019055903
+      objectReference: {fileID: 0}
     - target: {fileID: 3228795411358198968, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
       propertyPath: moveSpeed
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6355775288126687061, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
       propertyPath: MinDistance
-      value: 0.55645156
+      value: 0.7636541
       objectReference: {fileID: 0}
     - target: {fileID: 6503257659606155127, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
       propertyPath: m_LocalScale.x
