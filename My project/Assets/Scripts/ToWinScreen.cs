@@ -13,7 +13,8 @@ public class ToWinScreen : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (DestroyObject (DestroyObject.tag "enemy"));
-        GetComponent<GameObject> tag = ("finish");
+        GameObject[] enemies = GameObject.FindGameObjectsWithTag("enemy");
+        enemies.Length = 0;
+        GameObject.FindGameObjectsWithTag("finish");
     }
 }
