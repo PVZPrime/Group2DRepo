@@ -104022,10 +104022,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2052208984791294464, guid: bbad1655a320c4a41aeaaf9196f20a28, type: 3}
-      propertyPath: m_Volume
-      value: 0.4
-      objectReference: {fileID: 0}
     - target: {fileID: 6489555633945669180, guid: bbad1655a320c4a41aeaaf9196f20a28, type: 3}
       propertyPath: m_Name
       value: Dragon (1)
