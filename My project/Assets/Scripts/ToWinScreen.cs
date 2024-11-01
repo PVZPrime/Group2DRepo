@@ -1,9 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ToWinScreen : MonoBehaviour
 {
+    [SerializeField]
+    string levelToLoad = "WinScreen";
     // Start is called before the first frame update
     void Start()
     {
@@ -15,6 +18,16 @@ public class ToWinScreen : MonoBehaviour
     {
         GameObject[] enemies = GameObject.FindGameObjectsWithTag("enemy");
         enemies.Length = 0;
-        GameObject.FindGameObjectsWithTag("finish");
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log(collision.gameObject.name);
+        //IF I hit the key, I go to the win screen.
+        if (collision.gameObject.tag == "finish")
+        {
+
+            SceneManager.LoadScene(levelToLoad);
+
+        }
     }
 }
