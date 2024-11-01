@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 public class ToWinScreen : MonoBehaviour
 {
     [SerializeField]
+    GameObject prefab;
+    [SerializeField]
     string levelToLoad = "WinScreen";
     // Start is called before the first frame update
     void Start()
