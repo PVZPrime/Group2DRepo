@@ -8,13 +8,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 495078769958746823, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
+      propertyPath: MinDistance
+      value: 0.5354061
+      objectReference: {fileID: 0}
     - target: {fileID: 1317710143568852054, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -16.611311
       objectReference: {fileID: 0}
     - target: {fileID: 1317710143568852054, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -2.42028
       objectReference: {fileID: 0}
     - target: {fileID: 1317710143568852054, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
       propertyPath: m_LocalPosition.z
@@ -63,6 +67,22 @@ PrefabInstance:
     - target: {fileID: 4660027976574088955, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
       propertyPath: m_Name
       value: KnightEnemy2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7804041513086877016, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
+      propertyPath: m_Size.x
+      value: 0.22344719
+      objectReference: {fileID: 0}
+    - target: {fileID: 7804041513086877016, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
+      propertyPath: m_Size.y
+      value: 0.33850008
+      objectReference: {fileID: 0}
+    - target: {fileID: 7804041513086877016, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0474836
+      objectReference: {fileID: 0}
+    - target: {fileID: 7804041513086877016, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.0026986524
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
