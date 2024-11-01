@@ -17,7 +17,7 @@ public class ToWinScreen : MonoBehaviour
     void Update()
     {
         GameObject[] enemies = GameObject.FindGameObjectsWithTag("enemy");
-        enemies.Length = 0;
+        enemies.Length == 0;
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
