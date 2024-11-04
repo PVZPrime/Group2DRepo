@@ -8359,10 +8359,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
-      propertyPath: bulletSpeed
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: 8627092949592105297, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_Name
       value: Shrubber (1)
@@ -8419,10 +8415,6 @@ PrefabInstance:
     - target: {fileID: 2691846295277790204, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
-      propertyPath: bulletSpeed
-      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8627092949592105297, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_Name
