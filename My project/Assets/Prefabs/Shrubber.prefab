@@ -112,6 +112,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -1319068867, guid: 12fe72b3b0d11554ea17fac9b78f90b8, type: 3}
+    - target: {fileID: 7547605723140633466, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: chaseSpeed
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
