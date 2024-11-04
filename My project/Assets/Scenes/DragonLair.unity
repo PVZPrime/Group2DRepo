@@ -103698,6 +103698,38 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 2400583601932526063, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_Size.x
+      value: 0.24845193
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400583601932526063, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_Size.y
+      value: 0.34345877
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400583601932526063, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.046666466
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400583601932526063, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.00096800923
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228795411358198968, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: moveSpeed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4065567354508425193, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6503257659606155127, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6503257659606155127, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 6503257659606155127, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -103989,10 +104021,6 @@ PrefabInstance:
     - target: {fileID: 643245993138744465, guid: bbad1655a320c4a41aeaaf9196f20a28, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2052208984791294464, guid: bbad1655a320c4a41aeaaf9196f20a28, type: 3}
-      propertyPath: m_Volume
-      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 6489555633945669180, guid: bbad1655a320c4a41aeaaf9196f20a28, type: 3}
       propertyPath: m_Name

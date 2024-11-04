@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class DragonHealth : MonoBehaviour
 {
     [SerializeField]
-    float health = 15;
+    float health = 25;
     float maxHP;
     Image healthBar;
     //reduce the enemy health when hit by a player bullet

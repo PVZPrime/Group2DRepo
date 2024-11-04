@@ -114,9 +114,6 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 2332721448522776317, guid: cec14bbd514b82e48b836ddbfa1c58d8, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 7711319004341527531}
-    - targetCorrespondingSourceObject: {fileID: 2332721448522776317, guid: cec14bbd514b82e48b836ddbfa1c58d8, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 7410367554316842497}
     - targetCorrespondingSourceObject: {fileID: 2332721448522776317, guid: cec14bbd514b82e48b836ddbfa1c58d8, type: 3}
       insertIndex: -1
@@ -127,18 +124,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2332721448522776317, guid: cec14bbd514b82e48b836ddbfa1c58d8, type: 3}
   m_PrefabInstance: {fileID: 4258839777103514313}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &7711319004341527531
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1964992183411766324}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0759d40c2e4c5749b578b4ebaf855fc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!95 &7410367554316842497
 Animator:
   serializedVersion: 5
@@ -176,4 +161,4 @@ MonoBehaviour:
   bulletSpeed: 10
   bulletLifetime: 2
   shootDelay: 0.5
-  shootDistance: 5
+  shootDistance: 7
