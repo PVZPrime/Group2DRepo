@@ -16,6 +16,30 @@ PrefabInstance:
       propertyPath: prefab
       value: 
       objectReference: {fileID: 1809280632714548701, guid: 55f66eeaffc34ea4da6e6736456cd26c, type: 3}
+    - target: {fileID: 3434597965342819191, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -677.08545
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434597965342819191, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -317.59277
+      objectReference: {fileID: 0}
+    - target: {fileID: 4009106725939986327, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: m_Size.x
+      value: 0.79529333
+      objectReference: {fileID: 0}
+    - target: {fileID: 4009106725939986327, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: m_Size.y
+      value: 0.8740679
+      objectReference: {fileID: 0}
+    - target: {fileID: 4009106725939986327, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0017424822
+      objectReference: {fileID: 0}
+    - target: {fileID: 4009106725939986327, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.06079577
+      objectReference: {fileID: 0}
     - target: {fileID: 4009106725939986327, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
       value: 0.984375
@@ -71,6 +95,14 @@ PrefabInstance:
     - target: {fileID: 5307423299878287001, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6798951334107508644, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -677.0854
+      objectReference: {fileID: 0}
+    - target: {fileID: 6798951334107508644, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -317.5928
       objectReference: {fileID: 0}
     - target: {fileID: 7410367554316842497, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
       propertyPath: m_Controller
