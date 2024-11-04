@@ -186,8 +186,8 @@ MonoBehaviour:
 
 
 
-    You defeated the evil king and saved the
-    world.'
+    You  defeated  the  evil  dragon  and  saved 
+    the  kingdom.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a7d7ca33aacb03a4ca3cce3b7e4d1888, type: 2}
   m_sharedMaterial: {fileID: 1791154744104567379, guid: a7d7ca33aacb03a4ca3cce3b7e4d1888, type: 2}
@@ -214,8 +214,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 45
-  m_fontSizeBase: 45
+  m_fontSize: 61
+  m_fontSizeBase: 61
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -813,7 +813,7 @@ RectTransform:
   m_GameObject: {fileID: 1772637788}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1560082109}
@@ -821,7 +821,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 439, y: -257}
+  m_AnchoredPosition: {x: 643, y: -417}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1772637790
