@@ -6833,7 +6833,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: shootDelay
-      value: 1
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
+      propertyPath: bulletSpeed
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: shootDistance
@@ -8288,7 +8292,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: shootDelay
-      value: 1
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
+      propertyPath: bulletSpeed
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: shootDistance
@@ -8313,11 +8321,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2691846295277790204, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.93597
+      value: -29.89
       objectReference: {fileID: 0}
     - target: {fileID: 2691846295277790204, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.5800114
+      value: 2.68
       objectReference: {fileID: 0}
     - target: {fileID: 2691846295277790204, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8350,6 +8358,10 @@ PrefabInstance:
     - target: {fileID: 2691846295277790204, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
+      propertyPath: bulletSpeed
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8627092949592105297, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_Name
@@ -8407,6 +8419,10 @@ PrefabInstance:
     - target: {fileID: 2691846295277790204, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
+      propertyPath: bulletSpeed
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8627092949592105297, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: m_Name
@@ -73200,7 +73216,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3800401054303779966, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
       propertyPath: bulletSpeed
-      value: 4.5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3800401054303779966, guid: f063f36a0bba7544c9e729652fcc9ffd, type: 3}
       propertyPath: bulletLifetime
@@ -73981,7 +73997,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: shootDelay
-      value: 1
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
+      propertyPath: bulletSpeed
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4994449172020922786, guid: 332e477a7bb95b74caba1f63962346c5, type: 3}
       propertyPath: shootDistance
