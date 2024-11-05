@@ -45,6 +45,7 @@ public class PlayerShoot : MonoBehaviour
             //spawn in the bullet
             GameObject bullet = Instantiate(prefab, transform.position, Quaternion.identity);
             //push the bullet towards the mouse
+            bullet.transform.right = mouseDir;
             bullet.GetComponent<Rigidbody2D>().velocity = mouseDir * bulletSpeed;
             Destroy(bullet, bulletLifetime);
         }
@@ -60,6 +61,7 @@ public class PlayerShoot : MonoBehaviour
             mouseDir.Normalize();
             //spawn in the bullet
             GameObject bullet = Instantiate(prefab1, transform.position, Quaternion.identity);
+            bullet.transform.up = mouseDir;
             //push the bullet towards the mouse
             bullet.GetComponent<Rigidbody2D>().velocity = mouseDir * hevyBulletSpeed;
             Destroy(bullet, hevyBulletLifetime);
