@@ -60,6 +60,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -922148557, guid: 7ccf9b7b16d79154cbd278f4d94705d6, type: 3}
+    - target: {fileID: 6026954691446815155, guid: cec14bbd514b82e48b836ddbfa1c58d8, type: 3}
+      propertyPath: chaseTriggerDistance
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 6306487965247938280, guid: cec14bbd514b82e48b836ddbfa1c58d8, type: 3}
       propertyPath: m_Controller
       value: 
