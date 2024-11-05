@@ -21,14 +21,7 @@ public class PlayerHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButton("+"))
-        {
-            health += 1;
-        }
-        if (Input.GetButton("-"))
-        {
-            health += 1;
-        }
+
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
