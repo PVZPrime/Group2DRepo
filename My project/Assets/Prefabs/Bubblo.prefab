@@ -24,6 +24,10 @@ PrefabInstance:
       propertyPath: bulletSpeed
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 3004819739132730567, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
+      propertyPath: shootDistance
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 3507378823927442608, guid: ee87a6765c3c1c242be48779a6eddc94, type: 3}
       propertyPath: health
       value: 5
