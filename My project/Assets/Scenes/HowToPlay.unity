@@ -761,8 +761,12 @@ MonoBehaviour:
     press "mouse 1" (left click).
 
 
-    your objective in this game is to go through
-    many levels until you defeat the dragon and save the world.'
+    to use a heavy ranged attack, press "mouse
+    2" (left click).
+
+
+    your objective in this game is to go through many levels
+    until you defeat the dragon and save the world.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 087641fcb946910429a67743141b705a, type: 2}
   m_sharedMaterial: {fileID: 7811337426197164290, guid: 087641fcb946910429a67743141b705a, type: 2}
