@@ -68,6 +68,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: KnightEnemy2
       objectReference: {fileID: 0}
+    - target: {fileID: 7728745747135721087, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
+      propertyPath: health
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 7804041513086877016, guid: e9991bcb2e0fdc7429d8e084d8451eff, type: 3}
       propertyPath: m_Size.x
       value: 0.22344719
