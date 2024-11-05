@@ -18,6 +18,7 @@ TagManager:
   - NextLevelThree
   - NextLevelFour
   - finish
+  - arrow
   layers:
   - Default
   - TransparentFX

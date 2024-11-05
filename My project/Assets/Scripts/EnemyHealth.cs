@@ -25,6 +25,18 @@ public class EnemyHealth : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (collision.gameObject.tag == "arrow")
+        {
+            health -= 3;
+            healthBar.fillAmount = health / maxHP;
+            if (health <= 0)
+            {
+                Destroy(gameObject);
+            }
+            {
+                GetComponent<AudioSource>().Play();
+            }
+        }
         if(collision.gameObject.tag == "PlayerBullet")
         {
             health -= 1;

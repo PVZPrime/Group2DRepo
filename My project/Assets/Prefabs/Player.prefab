@@ -210,6 +210,10 @@ MonoBehaviour:
   bulletSpeed: 10
   bulletLifetime: 2
   shootDelay: 0.5
+  prefab1: {fileID: 6829148479122099386, guid: 7c46699cde8284143a7a598c94d7a1e6, type: 3}
+  hevyBulletSpeed: 6
+  hevyBulletLifetime: 10
+  hevyShootDelay: 3
 --- !u!95 &-2560087051817415383
 Animator:
   serializedVersion: 5
